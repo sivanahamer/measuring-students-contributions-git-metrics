@@ -3,16 +3,16 @@ Measuring students’ contributions in software  development projects using Git 
 
 Table of contents
 ------
-* [Course application development for mobile devices](#course-application-development-for-mobile-devices)
+* [Application development for mobile devices](#application-development-for-mobile-devices)
     * [Project M2017i](#project-m2017i)
     * [Project M2017ii](#project-m2017ii)
-* [Course software engineering](#course-software-engineering)
+* [Software engineering](#software-engineering)
     * [Project SE2018ii](#project-se2018ii)
     * [Project SE2019i](#project-se2019i)
     * [Project SE2019ii](#project-se2019ii)
-* [Mixed courses](#mixed-courses)
+* [Multiple courses](#multiple-courses)
 
-## Course application development for mobile devices
+## Application development for mobile devices
 
 ### Project M2017i
 
@@ -279,7 +279,7 @@ Table of contents
 
 ![Heat map of frequencies of student contributions within their teams for M2017ii](./figs/M2017iiHeatmap.png)
 
-## Course software engineering
+## Software engineering
 
 ### Project SE2018ii
 
@@ -717,8 +717,10 @@ Table of contents
 
 ![Heat map of frequencies of student contributions within their teams for SE2019ii](./figs/SE2019iiHeatmap.png)
 
-Mixed courses
+Multiple courses
 ------
+
+#### Distribution of contributions
 
 ##### Developer-Project
 
