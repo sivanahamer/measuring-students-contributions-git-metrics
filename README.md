@@ -29,5 +29,4 @@ contribution  metrics;  mining  software  repos-itories;  software  metrics;  gi
 
 ## Data and figures
 
-All the data and figures can be found in the [REPORT.md](./REPORT.MD).
-
+All the data and figures can be found in the [REPORT](./REPORT.md).
