@@ -10,7 +10,7 @@ This repository contains the data and figures used for the paper "Measuring stud
 @inproceedings{hamer2020measuring, 
   title = {Measuring students’ contributions in software development projects using Git metrics},
   booktitle = "2020 XLVI Latin American Computing Conference (CLEI)",
-  author = "Hamer, Sivana, and Quesada-L{\'o}pez, Christian and Mart{\'i}nez, Alexandra and Jenkins, Marcelo",
+  author = "Hamer, Sivana and Quesada-L{\'o}pez, Christian and Mart{\'i}nez, Alexandra and Jenkins, Marcelo",
   year = 2020,
   organization={IEEE}
 }
